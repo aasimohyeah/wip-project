@@ -1,6 +1,6 @@
 # Cat vs Dog / Classification of various dog breeds
 ##  An Image Classifier Project
-This is a summary of my project for the Winter Internship Program (WIP 3.0) under the CSI chapter of LNMIIT, Jaipur.
+### This is a summary of my project for the Winter Internship Program (WIP 3.0) under the CSI chapter of LNMIIT, Jaipur.
 
 ### This project has 2 phases. Each of them involves using an image classifier to acheive desired results using image data.
 ### Phase 1
